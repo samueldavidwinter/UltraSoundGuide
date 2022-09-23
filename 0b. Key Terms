@@ -1,7 +1,17 @@
 Short-Axis: The plane through a body or figure that is at the shortest width of that body or figure. 
+
 Echogenicity: The ability to bounce an echo
               hyperechogenic: Echogenicity is higher when the surface bouncing the sound echo reflects increased sound waves
                               Appears Lighter
 Anisotropy: The property of tendons, nerves and muscles to vary in their ultrasound appearance depending on the angle of insonation of the incident ultrasound beam.
              Can lead to or help rull out false positives 
+             
+Frequency: High - Do not penetrate as far, higher quality image 
+           Low - Penetrate further, lower resolution 
+           
+Artifacts: Low attenuation - Tissues behind the smple fluid appear brighter than neighboring tissues 
+                              "increased through transmission"
+           High attenuation - Shadowing, structures behind appear invisible 
+           Transducer direction - Ansiotropy can cause ordered tissues, like tendons or ligaments, appea hypoechoic. Remember to hold paralell!
+           
         
